@@ -1,0 +1,9 @@
+grantedPermissionMap: 
+  '*:*': 
+    - console
+    - u1281055739
+    - u1315816456
+  'xyz.cssxsh.mirai.plugin.arknights-helper:*': 
+    - g597550140
+  'org.itxtech.mcl.addon:*': 
+    - g597550140

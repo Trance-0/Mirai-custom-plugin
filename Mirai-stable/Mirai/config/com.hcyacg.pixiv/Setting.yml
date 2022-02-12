@@ -1,0 +1,20 @@
+admins: 
+  - 1281055739
+groups: 
+  - 389617786
+command: 
+  getDetailOfId: 'psid-'
+  picToSearch: 'ptst-'
+  showRank: 'rank-'
+  findUserWorksById: 'user-'
+  searchInfoByPic: 'ptsf-'
+  setu: 来点色图
+  tag: 'tag-'
+config: 
+  token: 
+    acgmx: 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUcmFuY2VfMCIsInV1aWQiOiJlNDIyYTQyNTAyMDk0NWU5OTZmNjcwODExMmE1NTNhMiIsImlhdCI6MTY0MzUwMjg0OSwiYWNjb3VudCI6IntcImVtYWlsXCI6XCJ3dXpoZXl1YW4uODZAZ21haWwuY29tXCIsXCJnZW5kZXJcIjotMSxcImhhc1Byb25cIjowLFwiaWRcIjoxNTU5LFwicGFzc1dvcmRcIjpcImVkNmZiZjg5YzY4OTZlOGRjYmFjYTc4YmIwZTE2MTM4XCIsXCJzdGF0dXNcIjowLFwidXNlck5hbWVcIjpcIlRyYW5jZV8wXCJ9IiwianRpIjoiMTU1OSJ9.E9HAvgM8UiQ-83CeAzSZQv-2B9KT1v62Kq-Koxkwzus'
+    saucenao: 97ffc544387e459c309670c4b44300bd08203349
+  proxy: 
+    host: 127.0.0.1
+    port: 1080
+  recall: 5
